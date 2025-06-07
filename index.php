@@ -52,7 +52,7 @@ $ThanhDieuMusicList->CommonMethod();
                     <img class="logo-ws" src="https://i.imgur.com/dxVZLOG.png" alt="Vương Thanh Diệu">
                     <span class="web-title">
                         <!-- <span class="td-lock"></span>𝗟𝗼𝗰𝗸 𝗦𝗰𝗿𝗲𝗲𝗻 <span class="td-lock"></span> -->
-                  𝑻𝒉𝒂𝒏𝒉𝑫𝒊𝒆𝒖
+                  𝑯𝒂𝒏𝒂𝒌𝒐
                     </span>
                 </div>
                 <span class="web_desc"></span>
